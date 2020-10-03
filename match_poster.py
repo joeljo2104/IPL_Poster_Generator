@@ -1,3 +1,5 @@
+# Copyright Joel John Kandathil 2020
+
 from PIL import Image, ImageDraw, ImageFont
 import textwrap
 from bs4 import BeautifulSoup
