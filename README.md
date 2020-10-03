@@ -12,3 +12,9 @@ Immediately, 3 posters will genenrated.
 1. Match Result depending on the match no.
 2. The current Points Table
 3. The current Leaders (Orange Cap, Purple Cap etc.)
+
+<p float="left">
+  <img src="https://github.com/joeljo2104/IPL_Poster_Generator/blob/main/Output/Sent/match_14.png" width="250">
+  <img src="https://github.com/joeljo2104/IPL_Poster_Generator/blob/main/Output/Sent/schedule_14.png" width="250">
+  <img src="https://github.com/joeljo2104/IPL_Poster_Generator/blob/main/Output/Sent/leaders_02%20Oct%202020.png" width="250">
+</p>
